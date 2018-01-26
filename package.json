@@ -1,0 +1,10 @@
+{
+  "name": "@gannettdigital/js-tree-directive",
+  "version": "1.0.0",
+  "main": "jsTree..directive.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GannettDigital/jsTree-directive.git"
+  },
+  "license": "UNLICENSED"
+}
